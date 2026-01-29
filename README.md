@@ -7,7 +7,7 @@
 - 图像结果会输出到 `results/` 目录下（自动创建），包含三张高 PNG 图。数据结果会在控制台中print
 
 仓库结构：
-'''
+```
 NJU_AI_Workshop_2025/
 │
 ├── data/
@@ -21,4 +21,4 @@ NJU_AI_Workshop_2025/
 ├── main.py                 # 一键运行所有实验
 ├── requirements.txt        # 依赖库列表
 └── README.md
-'''
+```
